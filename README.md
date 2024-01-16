@@ -1,9 +1,36 @@
-<h1 align="center">Hello World! 👋, I'm Hubert</h1>
-Welcome to my digital space! I'm a passionate student at the **Gdańsk University of Technology, majoring in IT/ETI**. My journey in the world of technology is a continuous learning experience, and I'm excited to share a bit more about myself and the exciting projects I'm working on.
-I'm Hubert, a curious mind diving deep into the realms of technology and information. Currently, I'm absorbed in learning a plethora of things, constantly expanding my knowledge horizon. Being a student at the Gdańsk University of Technology, I'm fortunate to explore the diverse and ever-evolving fields of IT and ETI.
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hubert-kowalski-gd04/](https://www.linkedin.com/in/hubert-kowalski-gd04/)
+# Hello World! 👋 I'm Hubert
 
-- 📫 How to reach me **hubert.kowzsnr@gmail.com**
+Welcome to my digital space! I'm a passionate student at the Gdańsk University of Technology, majoring in IT/ETI. My journey in the world of technology is a continuous learning experience, and I'm excited to share a bit more about myself and the exciting projects I'm working on.
+
+## About Me
+I'm Hubert, a curious mind diving deep into the realms of technology and information. Currently, I'm absorbed in learning a plethora of things, constantly expanding my knowledge horizon. Being a student at the Gdańsk University of Technology, I'm fortunate to explore the diverse and ever-evolving fields of IT and ETI.
+
+## Get in Touch 📫
+If you're interested in connecting with me or discussing anything tech-related, feel free to drop me an email at [hubert.kowzsnr@gmail.com](mailto:hubert.kowzsnr@gmail.com). I'm always open to engaging conversations and collaborative opportunities.
+
+## Projects Showcase 🚀
+I'm passionate about turning ideas into reality, and my projects reflect that enthusiasm. You can explore all of my creative endeavors on [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/). From coding adventures to hardware experiments, each project has its own story to tell.
+
+## Connect with Me on LinkedIn
+Let's expand our professional networks! Connect with me on [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/) to stay updated on my latest projects, interests, and tech discoveries.
+
+## My Toolbox 🧰
+In the vast world of technology, I've equipped myself with a variety of languages and tools to bring my ideas to life. Here are some of the key tools in my toolbox:
+
+- **Arduino**: Bringing hardware projects to life.
+- **C++**: Crafting efficient and powerful software solutions.
+- **CSS3**: Styling web pages with creativity.
+- **Git**: Managing and tracking changes in collaborative projects.
+- **HTML5**: Building the foundation of web development.
+- **Linux**: Exploring the open-source world.
+- **Unity**: Creating immersive experiences in the world of game development.
+
+Feel free to check out my GitHub repositories for a closer look at how I leverage these tools in my projects.
+
+## Let's Collaborate 🤝
+I'm always open to new collaborations, innovative projects, or just a friendly chat about technology. If you have an idea or want to explore potential collaborations, don't hesitate to reach out. Together, we can create something amazing!
+
+Thanks for stopping by, and let's build the future of technology together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
