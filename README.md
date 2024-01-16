@@ -11,6 +11,8 @@ If you're interested in connecting with me or discussing anything tech-related, 
 ## Projects Showcase 🚀
 I'm passionate about turning ideas into reality, and my projects reflect that enthusiasm. You can explore all of my creative endeavors on [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/). From coding adventures to hardware experiments, each project has its own story to tell.
 
+I do and create my own tasks on the fly. Here is the link to my account: https://www.spoj.com/WSDOCPP/users/hubert8645/
+
 ## Connect with Me on LinkedIn
 Let's expand our professional networks! Connect with me on [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/) to stay updated on my latest projects, interests, and tech discoveries.
 
