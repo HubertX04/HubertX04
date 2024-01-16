@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">Student at the Gdańsk University of Technology, IT/ETI department</h3>
-
-- 🌱 I’m currently learning **a lot of things.**
-
+<h1 align="center">Hello World! 👋, I'm Hubert</h1>
+Welcome to my digital space! I'm a passionate student at the **Gdańsk University of Technology, majoring in IT/ETI**. My journey in the world of technology is a continuous learning experience, and I'm excited to share a bit more about myself and the exciting projects I'm working on.
+I'm Hubert, a curious mind diving deep into the realms of technology and information. Currently, I'm absorbed in learning a plethora of things, constantly expanding my knowledge horizon. Being a student at the Gdańsk University of Technology, I'm fortunate to explore the diverse and ever-evolving fields of IT and ETI.
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hubert-kowalski-gd04/](https://www.linkedin.com/in/hubert-kowalski-gd04/)
 
 - 📫 How to reach me **hubert.kowzsnr@gmail.com**
