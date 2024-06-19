@@ -3,7 +3,7 @@
 Witaj na moim GitHubie. Zapraszam do przeczytania poniższego opisu, oraz sprawdzenia moich projektów i repozytoriów.
 
 ## O mnie
-Jestem Hubert - student Politechniki Gdańskiej na kierunku Automatyka, Robotyka i Cybernetya, na wydziale ETI. Moją pasją jest programowanie, roziwązywanie problemów algorytmicznych oraz projektowanie rozwiązań na różnych platformach.
+Jestem Hubert - student Politechniki Gdańskiej na kierunku Automatyka, Robotyka i Cybernetyka, na wydziale ETI. Moją pasją jest programowanie, rozwiązywanie problemów algorytmicznych oraz projektowanie rozwiązań na różnych platformach.
 
 ## Kontakt 📫
 Jeśli jesteś zainteresowany kontaktem ze mną -> [hubert.kowzsnr@gmail.com](mailto:hubert.kowzsnr@gmail.com). Jestem zawsze otwarty na konwersacje.
