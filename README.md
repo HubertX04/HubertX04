@@ -11,7 +11,7 @@ Jeśli jesteś zainteresowany kontaktem ze mną -> [hubert.kowzsnr@gmail.com](ma
 ## Prezentacja projektów 🚀
 Pasjonuje mnie przekształcanie pomysłów w rzeczywistość, a moje projekty odzwierciedlają ten entuzjazm. Wszystkie moje twórcze przedsięwzięcia możesz poznać na [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/).
 
-Wykonuję i tworzę własne zadania. Oto link do mojego konta: https://www.spoj.com/WSDOCPP/users/hubert8645/
+Wykonuję i tworzę własne zadania. Oto link do mojego konta na platformie SPOJ: https://www.spoj.com/WSDOCPP/users/hubert8645/
 
 ## Połącz się ze mną na LinkedIn
 Połącz się ze mną na [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/), aby być na bieżąco z moimi najnowszymi projektami, zainteresowaniami i odkryciami technologicznymi.
@@ -19,7 +19,7 @@ Połącz się ze mną na [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-
 ## Mój zestaw narzędzi 🧰
 W rozległym świecie technologii wyposażyłem się w różnorodne języki i narzędzia, aby wcielić moje pomysły w życie. Oto niektóre z kluczowych narzędzi w moim zestawie narzędzi:
 
-- **C++**: Tworzenie wydajnych rozwiązań programowych.
+- **C++, Python**: Tworzenie wydajnych rozwiązań programowych.
 - **CSS3**: Kreatywne stylizowanie stron internetowych.
 - **Git**: Zarządzanie i śledzenie zmian we wspólnych projektach.
 - **HTML5**: Podstawy tworzenia stron internetowych.
@@ -28,7 +28,7 @@ W rozległym świecie technologii wyposażyłem się w różnorodne języki i na
 Zapraszam do sprawdzenia moich repozytoriów GitHub, aby bliżej przyjrzeć się, jak wykorzystuję te narzędzia w moich projektach.
 
 ## Współpracujmy 🤝
-Zawsze jestem otwarty na nową współpracę, innowacyjne projekty lub po prostu przyjazną pogawędkę o technologii. Jeśli masz pomysł lub chcesz poznać potencjalną współpracę, nie wahaj się z nami skontaktować. Razem możemy stworzyć coś niesamowitego!
+Zawsze jestem otwarty na nową współpracę, innowacyjne projekty lub po prostu przyjazną pogawędkę o technologii. Jeśli masz pomysł lub chcesz poznać potencjalną współpracę, nie wahaj się ze mną skontaktować. Razem możemy stworzyć coś niesamowitego!
 
 Dziękuję za wizytę i wspólnie budujmy przyszłość technologii! 🚀
 
