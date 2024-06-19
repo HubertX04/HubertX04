@@ -30,7 +30,7 @@ Zapraszam do sprawdzenia moich repozytoriów GitHub, aby bliżej przyjrzeć się
 ## Współpracujmy 🤝
 Zawsze jestem otwarty na nową współpracę, innowacyjne projekty lub po prostu przyjazną pogawędkę o technologii. Jeśli masz pomysł lub chcesz poznać potencjalną współpracę, nie wahaj się z nami skontaktować. Razem możemy stworzyć coś niesamowitego!
 
-Dziękujemy za wizytę i wspólnie budujmy przyszłość technologii! 🚀
+Dziękuję za wizytę i wspólnie budujmy przyszłość technologii! 🚀
 
 <h3 align="left">Połącz się ze mną:</h3>
 <p align="left">
