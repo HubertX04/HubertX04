@@ -20,6 +20,9 @@ W rozległym świecie technologii wyposażyłem się w różnorodne języki i na
 - **Git**: Zarządzanie i śledzenie zmian we wspólnych projektach.
 - **HTML5**: Podstawy tworzenia stron internetowych.
 - **Linux**: Odkrywanie świata open source.
+- **MATLAB**: Analiza danych, modelowanie i symulacje inżynierskie, tworzenie algorytmów do rozwiązywania problemów matematycznych i inżynierskich.
+- **Python**: Tworzenie aplikacji do automatyzacji, analiza danych (np. za pomocą numpy)
+- **VHDL**: Projektowanie układów cyfrowych, tworzenie i testowanie modeli sprzętowych, implementacja rozwiązań w FPGA.
 
 Zapraszam do sprawdzenia moich repozytoriów GitHub, aby bliżej przyjrzeć się, jak wykorzystuję te narzędzia w moich projektach.
 
