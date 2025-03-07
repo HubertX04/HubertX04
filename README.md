@@ -9,12 +9,8 @@ Jestem Hubert - student Politechniki Gdańskiej na kierunku Automatyka, Robotyka
 Jeśli jesteś zainteresowany kontaktem ze mną -> [hubert.kowzsnr@gmail.com](mailto:hubert.kowzsnr@gmail.com). Jestem zawsze otwarty na konwersacje.
 
 ## Prezentacja projektów 🚀
-Pasjonuje mnie przekształcanie pomysłów w rzeczywistość, a moje projekty odzwierciedlają ten entuzjazm. Wszystkie moje twórcze przedsięwzięcia możesz poznać na [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/).
-
+Pasjonuje mnie przekształcanie pomysłów w rzeczywistość, a moje projekty odzwierciedlają ten entuzjazm.
 Wykonuję i tworzę własne zadania. Oto link do mojego konta na platformie SPOJ: https://www.spoj.com/WSDOCPP/users/hubert8645/
-
-## Połącz się ze mną na LinkedIn
-Połącz się ze mną na [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-gd04/), aby być na bieżąco z moimi najnowszymi projektami, zainteresowaniami i odkryciami technologicznymi.
 
 ## Mój zestaw narzędzi 🧰
 W rozległym świecie technologii wyposażyłem się w różnorodne języki i narzędzia, aby wcielić moje pomysły w życie. Oto niektóre z kluczowych narzędzi w moim zestawie narzędzi:
