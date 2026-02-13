@@ -1,35 +1,115 @@
-# Hello World! 👋 I'm Hubert
+# 👋 Hubert | Automatyka • Robotyka • Embedded • AI Vision
 
-Witaj na moim GitHubie. Zapraszam do przeczytania poniższego opisu, oraz sprawdzenia moich projektów i repozytoriów.
+🎓 Student 6. semestru studiów inżynierskich  
+Kierunek: **Automatyka, Robotyka i Cybernetyka**  
+Wydział ETI – Politechnika Gdańska  
 
-## O mnie
-Jestem Hubert - student Politechniki Gdańskiej na kierunku Automatyka, Robotyka i Cybernetyka, na wydziale ETI. Moją pasją jest programowanie, rozwiązywanie problemów algorytmicznych oraz projektowanie rozwiązań na różnych platformach.
+---
 
-## Kontakt 📫
-Jeśli jesteś zainteresowany kontaktem ze mną -> [hubert.kowzsnr@gmail.com](mailto:hubert.kowzsnr@gmail.com). Jestem zawsze otwarty na konwersacje.
+## 👨‍💻 O mnie
 
-## Prezentacja projektów 🚀
-Pasjonuje mnie przekształcanie pomysłów w rzeczywistość, a moje projekty odzwierciedlają ten entuzjazm.
-Wykonuję i tworzę własne zadania. Oto link do mojego konta na platformie SPOJ: https://www.spoj.com/WSDOCPP/users/hubert8645/
+Jestem studentem specjalizującym się w systemach sterowania, programowaniu oraz projektowaniu rozwiązań sprzętowo-programowych.  
+Łączę wiedzę z zakresu automatyki, elektroniki oraz programowania w praktycznych projektach inżynierskich.
 
-## Mój zestaw narzędzi 🧰
-W rozległym świecie technologii wyposażyłem się w różnorodne języki i narzędzia, aby wcielić moje pomysły w życie. Oto niektóre z kluczowych narzędzi w moim zestawie narzędzi:
+Moje główne obszary zainteresowań:
 
-- **C++, Python**: Tworzenie wydajnych rozwiązań programowych.
-- **CSS3**: Kreatywne stylizowanie stron internetowych.
-- **Git**: Zarządzanie i śledzenie zmian we wspólnych projektach.
-- **HTML5**: Podstawy tworzenia stron internetowych.
-- **Linux**: Odkrywanie świata open source.
-- **MATLAB**: Analiza danych, modelowanie i symulacje inżynierskie, tworzenie algorytmów do rozwiązywania problemów matematycznych i inżynierskich.
-- **Python**: Tworzenie aplikacji do automatyzacji, analiza danych (np. za pomocą numpy)
-- **VHDL**: Projektowanie układów cyfrowych, tworzenie i testowanie modeli sprzętowych, implementacja rozwiązań w FPGA.
+- Systemy embedded  
+- Automatyka przemysłowa  
+- Robotyka mobilna  
+- Computer Vision (YOLO, OpenCV)  
+- Projektowanie i budowa urządzeń od podstaw  
 
-Zapraszam do sprawdzenia moich repozytoriów GitHub, aby bliżej przyjrzeć się, jak wykorzystuję te narzędzia w moich projektach.
+---
 
-## Współpracujmy 🤝
-Zawsze jestem otwarty na nową współpracę, innowacyjne projekty lub po prostu przyjazną pogawędkę o technologii. Jeśli masz pomysł lub chcesz poznać potencjalną współpracę, nie wahaj się ze mną skontaktować. Razem możemy stworzyć coś niesamowitego!
+## 🛠 Kompetencje techniczne
 
-Dziękuję za wizytę i wspólnie budujmy przyszłość technologii! 🚀
+### 💻 Programowanie
+- **C++** – algorytmy, systemy wbudowane  
+- **Python** – automatyzacja, analiza danych, przetwarzanie obrazu  
+- **MATLAB** – modelowanie, symulacje, analiza danych  
 
-<h3 align="left">Języki programistyczne i narzędzia:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### ⚙ Systemy embedded i mikrokontrolery
+- Arduino  
+- Raspberry Pi  
+- Integracja czujników i elementów wykonawczych  
+
+### 🏭 Automatyka przemysłowa
+- Programowanie PLC – **Siemens TIA Portal**  
+- Konfiguracja i obsługa paneli HMI  
+- Podstawy elektryki i elektroniki przemysłowej  
+
+### 🌐 Technologie webowe
+- HTML5  
+- CSS3
+- PHP
+
+### 🐧 Systemy i narzędzia
+- Linux  
+- Git  
+- Unity (podstawy)  
+
+---
+
+## 🚀 Wybrane projekty inżynierskie
+
+### 🖨 Własnoręcznie zbudowana drukarka 3D
+- Projekt mechaniczny konstrukcji  
+- Dobór elektroniki i sterowników  
+- Kalibracja i optymalizacja pracy  
+
+### 🤖 Noktowizyjny system patrolowania i namierzania laserowego
+- Mobilny robot oparty na Raspberry Pi  
+- Wykrywanie sylwetek ludzkich przy użyciu **YOLO**  
+- System wizyjny + kamera  
+- Automatyczne namierzanie celu i sterowanie modułem laserowym  
+
+### 🔩 Własnoręcznie wykonany ploter CNC
+- Projekt konstrukcji mechanicznej  
+- Sterowanie silnikami krokowymi  
+- Integracja systemu sterowania  
+
+---
+
+## 🧠 Computer Vision
+
+- Detekcja obiektów przy użyciu **YOLO**  
+- Przetwarzanie obrazu w Python (OpenCV)  
+- Integracja systemów wizyjnych z robotami mobilnymi  
+
+---
+
+## 🏆 Programowanie algorytmiczne
+
+Rozwiązuję zadania algorytmiczne i rozwijam kompetencje w zakresie efektywnego programowania.
+
+Profil SPOJ:  
+👉 https://www.spoj.com/WSDOCPP/users/hubert8645/
+
+---
+
+## 📫 Kontakt
+
+📧 hubert.kowzsnr@gmail.com  
+
+Jestem otwarty na:
+- współpracę projektową  
+- staże i praktyki inżynierskie  
+- projekty R&D  
+- rozwój w obszarze automatyki, robotyki i systemów embedded  
+
+---
+
+## 🎯 Cel zawodowy
+
+Rozwój w kierunku:
+
+- Automatyki przemysłowej  
+- Systemów sterowania  
+- Robotyki mobilnej  
+- Systemów wizyjnych AI  
+- Integracji sprzętu i oprogramowania  
+
+---
+
+Dziękuję za odwiedzenie mojego profilu 🚀  
+Zapraszam do zapoznania się z repozytoriami.
