@@ -31,6 +31,7 @@ Moje główne obszary zainteresowań:
 ### ⚙ Systemy embedded i mikrokontrolery
 - Arduino  
 - Raspberry Pi  
+- STM32  
 - Integracja czujników i elementów wykonawczych  
 
 ### 🏭 Automatyka przemysłowa
@@ -80,7 +81,8 @@ Moje główne obszary zainteresowań:
 
 ## 🏆 Programowanie algorytmiczne
 
-Rozwiązuję zadania algorytmiczne i rozwijam kompetencje w zakresie efektywnego programowania.
+Rozwiązuję zadania algorytmiczne i rozwijam kompetencje w zakresie efektywnego programowania.  
+Mam za sobą sukcesy w różnych konkursach programistycznych i inżynierskich.
 
 Profil SPOJ:  
 👉 https://www.spoj.com/WSDOCPP/users/hubert8645/
